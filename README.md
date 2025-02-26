@@ -35,12 +35,12 @@ Enhances project visibility and professionalism.
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
 Public Repository
-✅ Advantages:
+Advantages:
 
 Anyone can view, fork, and contribute.
 Increases visibility and open-source collaboration.
 Encourages community contributions and feedback.
-❌ Disadvantages:
+Disadvantages:
 
 Code is accessible to everyone, including competitors.
 Potential security risks if sensitive data is exposed.
